@@ -25,21 +25,21 @@ A command-line Language Interpretation and Recognition Interface node applicatio
 ## How It Works
 
 1. Load app: ```node liri.js```
-    <img alt="Screenshot of node liri.js" src="/npmLoad.png>
+    <img alt="Screenshot of node liri.js" src="/npmLoad.png">
 
 2. Choose option from list: 
-    <img alt="Screenshot of CLI list options" src="/cliList.png>
+    <img alt="Screenshot of CLI list options" src="/cliList.png">
 
 3. Enter in a movie title, band name, song title, or choose "Just don't know? Try this." and see results:
-    <img alt="Screeshot of input" src="/movieOption.png>
-    ![Screenshot of movie results] movieResults.png)
-    <img alt="Screenshot of concert results" src="./concertResults.png">
+    <img alt="Screeshot of input" src="/movieOption.png">
+    <img alt="Screenshot of movie results" src="/movieResults.png">
+    <img alt="Screenshot of concert results" src="/concertResults.png">
     <img alt="Screenshot of song results" src="/songResults.png">
-    <img alt= "Screenshot of just don't know option results" src="/dontKnowResults.png>
+    <img alt="Screenshot of just don't know option results" src="/dontKnowResults.png">
 
 ## Log.txt
 This file keeps track of User choices and logs the results.
-    <img alt="Screenshot of log.txt" src="/logResults.png"
+    <img alt="Screenshot of log.txt" src="/logResults.png">
 
 
 
