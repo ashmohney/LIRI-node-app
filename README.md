@@ -32,9 +32,13 @@ A command-line Language Interpretation and Recognition Interface node applicatio
 
 3. Enter in a movie title, band name, song title, or choose "Just don't know? Try this." and see results:
     <img alt="Screeshot of input" src="/movieOption.png">
+    ###### Movie Results
     <img alt="Screenshot of movie results" src="/movieResults.png">
+    ###### Concert Results
     <img alt="Screenshot of concert results" src="/concertResults.png">
+    ###### Song Results
     <img alt="Screenshot of song results" src="/songResults.png">
+    ###### Just don't know? Try this.
     <img alt="Screenshot of just don't know option results" src="/dontKnowResults.png">
 
 ## Log.txt
