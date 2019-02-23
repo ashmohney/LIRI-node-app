@@ -36,7 +36,7 @@ A command-line Language Interpretation and Recognition Interface node applicatio
     <img alt="Screenshot of movie results" src="/movieResults.png">
     Concert Results:
     <img alt="Screenshot of concert results" src="/concertResults.png">
-    :Song Results
+    Song Results:
     <img alt="Screenshot of song results" src="/songResults.png">
     Just don't know? Try this:
     <img alt="Screenshot of just don't know option results" src="/dontKnowResults.png">
