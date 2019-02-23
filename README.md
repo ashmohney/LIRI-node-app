@@ -34,8 +34,8 @@ A command-line Language Interpretation and Recognition Interface node applicatio
     ![Screeshot of input] (./movieOption.png)
     ![Screenshot of movie results] (./movieResults.png)
     ![Screenshot of concert results] (./concertResults.png)
-    ![Screenshot of song results] (./songResults.png)
-    ![Screenshot of just don't know option results] (./dontKnowResults.PNG)
+    ![Screenshot of song results] (songResults.png)
+    ![Screenshot of just don't know option results] (/dontKnowResults.PNG)
 
 ## Log.txt
 This file keeps track of User choices and logs the results.
