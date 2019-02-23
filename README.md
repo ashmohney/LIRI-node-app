@@ -39,8 +39,8 @@ A command-line Language Interpretation and Recognition Interface node applicatio
 
 ## Log.txt
 This file keeps track of User choices and logs the results.
-    ![Screenshot of log.txt] (./logResults)
-    
+    ![Screenshot of log.txt] (https://github.com/ashmohney/LIRI-node-app/blob/master/logResults.png)
+
 
 
     
