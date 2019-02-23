@@ -35,12 +35,12 @@ A command-line Language Interpretation and Recognition Interface node applicatio
     ![Screenshot of movie results] (./movieResults.png)
     ![Screenshot of concert results] (./concertResults.png)
     ![Screenshot of song results] (./songResults.png)
-    ![Screenshot of just don't know option results] (./dontKnowResults.png)
+    ![Screenshot of just don't know option results] (./dontKnowResults.PNG)
 
 ## Log.txt
 This file keeps track of User choices and logs the results.
     ![Screenshot of log.txt] 
-    (https://github.com/ashmohney/LIRI-node-app/blob/master/logResults.png)
+    (https://github.com/ashmohney/LIRI-node-app/blob/master/logResults.PNG)
 
 
 
