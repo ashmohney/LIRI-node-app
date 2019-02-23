@@ -169,7 +169,7 @@ function spotifyThis() {
 
     let cleanData = "\n" + songInfo + dashes;
 
-    console.log("SONG: " + cleanData);
+    console.log("SPOTIFY: " + cleanData);
     appendData(cleanData);
 });
 }
